@@ -1,0 +1,3 @@
+my name is Amna Sarwar 
+I am studying software engineering 
+my assignment is about git and gitHub
